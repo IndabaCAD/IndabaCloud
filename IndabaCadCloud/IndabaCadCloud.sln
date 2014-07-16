@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleStarter", "ConsoleSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfChatApp", "WpfChatApp\WpfChatApp.csproj", "{B1B49D81-D189-41A5-B273-F810080135E7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IndabacadCloudApi", "IndabacadCloudApi", "{0F3F1C99-1213-467B-9754-721B450F2524}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
